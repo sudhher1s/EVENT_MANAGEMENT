@@ -1,1 +1,1 @@
-# EVENT_MANAGEMENT
+this is a event management project.
